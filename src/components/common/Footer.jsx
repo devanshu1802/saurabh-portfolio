@@ -16,7 +16,7 @@ const Footer = () => {
         </div>
         
         <div className="lg:text-right text-center lg:w-1/3">
-          <a href="mailto:contact@saurabh.com" className="inline-block border border-white hover:border-[#defd50] hover:text-[#defd50] hover:bg-[#defd50]/10 px-6 py-3 rounded-full transition-all uppercase tracking-widest text-xs font-[font2]">
+          <a href="mailto:sauravsingh010703@gmail.com" className="inline-block border border-white hover:border-[#defd50] hover:text-[#defd50] hover:bg-[#defd50]/10 px-6 py-3 rounded-full transition-all uppercase tracking-widest text-xs font-[font2]">
             Get In Touch
           </a>
         </div>
