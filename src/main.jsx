@@ -5,6 +5,7 @@ import App from './App.jsx'
 import { BrowserRouter } from 'react-router-dom'
 import Stairs from './components/common/Stairs.jsx'
 import NavContext from './context/NavContext.jsx'
+import { Analytics } from '@vercel/analytics/react'
 
 
 createRoot(document.getElementById('root')).render(
@@ -13,6 +14,7 @@ createRoot(document.getElementById('root')).render(
     <Stairs>
     <NavContext>
           <App />
+          <Analytics />
     </NavContext>
     </Stairs>
     </BrowserRouter>
