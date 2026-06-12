@@ -43,7 +43,7 @@ const Navbar = () => {
        <div onClick={()=>{
         setNavOpen(true) 
        }} 
-        className='cursor-pointer lg:h-14 md:h-11 h-9 bg-black relative lg:w-[16vw] md:w-48 w-32'>
+        className='cursor-pointer lg:h-14 md:h-11 h-9 bg-black relative lg:w-[12vw] md:w-48 w-32'>
          <div className=' relative h-full lg:px-8 md:px-6 px-4 flex flex-col justify-center items-end lg:gap-1.5 gap-0.5'>
           <div className='lg:w-18 md:w-12 w-8 h-0.5 bg-white'></div>
           <div className='lg:w-10 md:w-6 w-4 h-0.5 bg-white'></div>
