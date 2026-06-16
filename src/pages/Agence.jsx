@@ -34,7 +34,7 @@ const Agence = () => {
           </div>
           <div className='lg:pl-[40%] lg:pr-[5%] p-4 md:p-6 mt-4 lg:mt-24'>
             <p style={{ fontFamily: "'Satoshi', sans-serif" }} className='lg:text-[2rem] text-lg md:text-xl text-white/85 leading-relaxed lg:leading-[1.5] tracking-wide indent-6 md:indent-10 lg:indent-20 text-justify sm:text-left'>
-              I am a passionate 3D Artist and Game Developer specializing in immersive environments and realistic, game-ready assets. My work bridges the gap between high-fidelity visual artistry and real-time engine optimization. Whether crafting intricate worlds in Blender and Maya or bringing them to life in Unreal Engine and Unity, I obsess over every detail to ensure performance never compromises breathtaking aesthetics.
+           I am a Game Developer and Technical Artist specializing in creating immersive interactive experiences across multiple game engines and production pipelines. With expertise in Unity and Unreal Engine development, game and level design, technical art, 3D asset creation, rigging, animation systems, and material development, I bridge the gap between art and technology to deliver efficient, scalable, and visually compelling game content. My multidisciplinary background enables me to contribute throughout the entire development process, from concept and prototyping to production-ready implementation.
             </p>
           </div>
         </div>
@@ -42,11 +42,11 @@ const Agence = () => {
       <div id='page2' className="min-h-screen flex flex-col justify-center bg-black text-white pb-20 relative pt-32">
          {/* Infinite Tools Marquee */}
          <div className="flex overflow-hidden whitespace-nowrap border-y border-white/20 py-10 lg:py-16 w-full opacity-50 hover:opacity-100 transition-opacity duration-500 cursor-default">
-            <div className="moveX-slow flex items-center pr-10 lg:pr-20">
-                <h1 className="text-3xl md:text-5xl lg:text-[8vw] font-[font2] text-transparent [-webkit-text-stroke:1px_white] uppercase">Blender • Unreal Engine • Maya • Unity • ZBrush • Substance Painter •&nbsp;</h1>
+            <div className="moveX-slow flex items-center pr-4 lg:pr-8">
+                <h1 className="text-3xl md:text-5xl lg:text-[8vw] font-[font2] text-transparent [-webkit-text-stroke:1px_white] uppercase">Autodesk Maya • Unreal Engine • Autodesk 3Ds Max • Unity Engine • Blender • Substance Painter •&nbsp;</h1>
             </div>
-            <div className="moveX-slow flex items-center pr-10 lg:pr-20">
-                <h1 className="text-3xl md:text-5xl lg:text-[8vw] font-[font2] text-transparent [-webkit-text-stroke:1px_white] uppercase">Blender • Unreal Engine • Maya • Unity • ZBrush • Substance Painter •&nbsp;</h1>
+            <div className="moveX-slow flex items-center pr-4 lg:pr-8">
+                <h1 className="text-3xl md:text-5xl lg:text-[8vw] font-[font2] text-transparent [-webkit-text-stroke:1px_white] uppercase">Autodesk Maya • Unreal Engine • Autodesk 3Ds Max • Unity Engine • Blender • Substance Painter •&nbsp;</h1>
             </div>
          </div>
 
@@ -60,7 +60,7 @@ const Agence = () => {
                   <div className="h-[2px] w-full bg-white/20 relative">
                      <div className="absolute left-0 top-0 h-full w-0 bg-[#defd50] group-hover:w-full transition-all duration-700 ease-out"></div>
                   </div>
-                  <h3 className="text-2xl font-[font2] uppercase tracking-wide">Environment Art</h3>
+                  <h3 className="text-2xl font-[font2] uppercase tracking-wide">game programming in unreal and unity</h3>
                   <p style={{ fontFamily: "'Satoshi', sans-serif" }} className="text-xl font-light text-white/70 leading-relaxed">
                      Crafting immersive, highly optimized worlds for real-time engines. Specializing in modular kits, terrain generation, and atmospheric storytelling.
                   </p>
@@ -71,7 +71,7 @@ const Agence = () => {
                   <div className="h-[2px] w-full bg-white/20 relative">
                      <div className="absolute left-0 top-0 h-full w-0 bg-[#defd50] group-hover:w-full transition-all duration-700 ease-out"></div>
                   </div>
-                  <h3 className="text-2xl font-[font2] uppercase tracking-wide">Hard Surface</h3>
+                  <h3 className="text-2xl font-[font2] uppercase tracking-wide">Hard Surface Modelling</h3>
                   <p style={{ fontFamily: "'Satoshi', sans-serif" }} className="text-xl font-light text-white/70 leading-relaxed">
                      Precision modeling for weapons, vehicles, and sci-fi architectural assets, ensuring pristine topology and clean bakes for game-ready performance.
                   </p>
@@ -82,7 +82,7 @@ const Agence = () => {
                   <div className="h-[2px] w-full bg-white/20 relative">
                      <div className="absolute left-0 top-0 h-full w-0 bg-[#defd50] group-hover:w-full transition-all duration-700 ease-out"></div>
                   </div>
-                  <h3 className="text-2xl font-[font2] uppercase tracking-wide">PBR Texturing</h3>
+                  <h3 className="text-2xl font-[font2] uppercase tracking-wide">Character Rigging</h3>
                   <p style={{ fontFamily: "'Satoshi', sans-serif" }} className="text-xl font-light text-white/70 leading-relaxed">
                      Developing rich, realistic surfaces using physically based rendering workflows, procedural materials, and detailed map generation in Substance.
                   </p>
